@@ -1,0 +1,11 @@
+# Save this as .streamlit/config.toml inside your project folder.
+
+[theme]
+primaryColor = "#0B4F6C"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EDF2F5"
+textColor = "#12212B"
+font = "sans serif"
+
+[server]
+headless = true

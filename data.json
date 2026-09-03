@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Soumya Manna",
+    "age": 22,
+    "email": "soumyamanna@gmail.com",
+    "pin": "9090",
+    "balance": 0.0,
+    "accountNo": 1234
+  },
+  {
+    "name": "Suvo Pal",
+    "age": 34,
+    "email": "suvo@gmail.com",
+    "pin": "1234",
+    "balance": 8500.0,
+    "accountNo": "FNn54#1"
+  }
+]
